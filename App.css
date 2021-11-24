@@ -1,0 +1,32 @@
+.container{
+  /* margin-left: 400px; */
+  text-align: center;
+}
+.main{
+  border: 2px solid rgb(241, 83, 131);
+  border-radius: 15px;
+  width: 500px;
+  margin-left: 425px;
+  margin-top: 50px;
+}
+.container Button{
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.main Button{
+  width: 100px;
+  margin-left: 0px;
+}
+.dash{
+  border: black 2px solid;
+  border-radius: 10px;
+  margin-left: 175px;
+  height: 300px;
+  width: 1000px;
+  padding-top: 180px;
+}
+.tbl{
+  border: solid 2px black;
+  text-align: center;
+}
